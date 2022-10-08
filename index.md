@@ -1,7 +1,10 @@
 # Este es un título
 ## Este es un Subtítulo
 Holas 
-![Image of Yaktocat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABOWUXDDIhod8K5_8XvsJb4TvNSDYRSCStA&usqp=CAU)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# This is an <h1> header, which is the largest
+## This is an <h2> header
+###### This is an <h6> header, which is the smallest
 
 ```
 $ git init
